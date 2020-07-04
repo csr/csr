@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cesare and I'm currently contributing to Python Open Source projects through the MLH Fellowship.
+My name is Cesare and I'm currently contributing to Python Open Source projects through the [MLH Fellowship](https://fellowship.mlh.io/). In the past, I worked on several iOS apps, attended Apple WWDC as a scholar and interned at Twitter. I'm currently learning more about Autonomous Systems, Robotics, Computer Vision, Machine Learning.
 
 <!--
 **csr/csr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
