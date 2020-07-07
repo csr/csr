@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cesare and I'm currently contributing to Python Open Source projects through the [MLH Fellowship](https://fellowship.mlh.io/). In the past, I worked on several iOS apps, attended Apple WWDC as a scholar and interned at Twitter. I'll soon learn more about Autonomous Systems in a MSc at [KTH](https://www.kth.se/) and [Aalto University](https://www.aalto.fi/en). I'm sometimes active on [Stack Overflow](stackoverflow.com/users/1135714).
+My name is Cesare and I'm currently contributing to Python Open Source projects through the [MLH Fellowship](https://fellowship.mlh.io/). In the past, I worked on several iOS apps, attended Apple WWDC as a scholar and interned at Twitter. I'll soon learn more about Autonomous Systems in a MSc at [KTH](https://www.kth.se/) and [Aalto University](https://www.aalto.fi/en). I'm sometimes active on [Stack Overflow](https://stackoverflow.com/users/1135714/cesare).
 
 <!--
 **csr/csr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
