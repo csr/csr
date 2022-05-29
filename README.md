@@ -1,4 +1,4 @@
-### Aloha 👋
+### Aloha 👋🌈
 
 My name is Cesare and I write software for mobile networks at Nokia. In the past, I worked on several iOS apps, attended Apple WWDC as a scholar, interned at Twitter and Amazon, and contributed to Python Open Source projects through the [MLH Fellowship](https://fellowship.mlh.io/). I'm sometimes active on [Stack Overflow](https://stackoverflow.com/users/1135714/cesare). I get excited when working on products – view my projects at [cesare.io](https://cesare.io)
 
